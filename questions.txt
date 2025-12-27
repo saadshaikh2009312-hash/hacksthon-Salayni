@@ -1,0 +1,5 @@
+What is 2+2? | 3 | 4 | B
+What is the capital of Pakistan? | Islamabad | Lahore | A
+What is 5+3? | 7 | 8 | B
+Which is bigger, sun or moon? | Sun | Moon | A
+Is water wet? | Yes | No | A
